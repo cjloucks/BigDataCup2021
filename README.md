@@ -8,9 +8,13 @@ What do you want to get out of your hockey related metrics? Are you looking for 
 Our analysis was based on Stathletes tracked data on the Erie Otters from the 2019-2020 season from which we pulled the following summary statistics:
 
 pass attempts per game = 816.70
+
 completed passes per game = 594.45
+
 shot attempts per game = 122.18
+
 shots on goal per game = 56.73
+
 goals per game = 7.33
 
 Clearly passing plays represent a significantly larger proportion of the total events that happen on the ice than goals, shots, or even shots attempts. 
