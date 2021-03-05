@@ -1,5 +1,6 @@
 # BigDataCup2021
 Hockey Passer Rating (HPR)
+
 Tyler Allan, Marc Doucette, Connor Loucks, Christian Petrozza
 
 What do you want to get out of your hockey related metrics? Are you looking for more information on goals, goal scoring, saves? Hockey as a sport actually has a long history of quantifying goals/saves and the events which can lead to either occurrence. But virtually all of the readily available research on the subject focuses on goals/saves and very little else. This is a stark realization to make as scoring plays in hockey though hugely important and of course decide who wins and loses the game, tell us very little about the litany of events that encompass the game of hockey.
